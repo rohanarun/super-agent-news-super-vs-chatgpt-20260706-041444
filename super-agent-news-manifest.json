@@ -1,0 +1,53 @@
+{
+  "citations": [
+    {
+      "source": "Memeburn",
+      "title": "Google gives Gemini 3.5 Flash computer use for AI agents",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmotdWlXYzdiUUVaeXZQaDJkcVB5bzlfcWROWldtd2JjZXdoeEVVR0U4X3ZyZjR2cElfVXh1dXlhZG84YXlseWRDRmtlY2E2RWZ4Vno5RGp6LTRBbU04bXVDYWprOEJXaVJ1bG9jeFdMSFpmX216N1l6LXQwRW9SYk1uQk4?oc=5"
+    },
+    {
+      "source": "Android Authority",
+      "title": "I automated my day with ChatGPT Scheduled Tasks. Here's what's great \u2014 and what's broken",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sVHJoaUVFV0ZBU1dQZ3ZodTFJYmxxQnlLZjdLd3BIVXlEWGM4ZUNmU1VRV1JBV3VwVk5fMkZ2Qjk2VFRHRG8yYXRzblJnZnlwZ243VU5JZEZza3IzYWtDQzEyNnBteURvejU5UDl1SjdzUV85cGpEdWEwNVlENkE?oc=5"
+    },
+    {
+      "source": "MSN",
+      "title": "Cisco to give all 90,000 employees personal AI agents",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZldxR0dNaHFoMF9uazVJZlk3Q3RrVW1tMHdnYWROdUV2OGFZbWNqLTdZV2IwMkRic19CaV9tb2VGYzRiRWVZRlFDOTl3NjRTWW5kbVAtMGsxS2YyTUlodkpmNlExOFhlT1BHbWk2M1l3NTRCRW1LaG40VVRScGV1bEZlUWhYMmVRNE1DUllGODJQS1gzWDIxM2dZOE8yQzg?oc=5"
+    },
+    {
+      "source": "SC Media",
+      "title": "Shell injection flaw found in 10 of 11 open-source AI agents",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdzI4SHY5RUNhUEQ0X2lETmh4SkdxaVQ4SHNaVlJ3X2EtYVJxMm0tT0tvQ3R1Z3ZVTGpuLWxWVEtFQW1qd3ZaVjFpdDlVMGhWUDc3QkFDd1pxQk9xZmxaYUg4ZE55SVB6dEw3TzhmdDJjRmo1RmJsUUR2UXF5MkNlakd6TFlQczdjOGJRZUMzRjhJSlpa?oc=5"
+    },
+    {
+      "source": "blog.google",
+      "title": "Introducing the Gemini Computer Use model",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-computer-use-model/"
+    },
+    {
+      "source": "MIT News",
+      "title": "Q&A: What is agentic AI today, and what do we want it to be?",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RM1ZBZHlsbkR4dlJscXJLMkhFUzN1S280eXBsV1hCXzdCOTBraWZ1cUt1SUhqXzBUbThPSnBQdWpKTTI2aXdxQTdHbk9SM1d2NGluUXZ0cWktNzdWeS1xZHRQcVhDcWs5M2R4YXdUTGVvMThCRXc?oc=5"
+    }
+  ],
+  "design_plan": "Python RNG Execution: seed derived from 'Super vs ChatGPT|competitor_comparison|people comparing Super with ChatGPT|2026-07-06T04:13:51.548618+00:00' -> selected architecture 'comparison-lab'. AIDA Check: Hero (Attention), Market proof & comparison grids (Interest), Motion + media chapters (Desire), CTA band (Action) verified. Font Selection: Cabinet Grotesk primary with system fallback. Hero Math Verification: H1 clamp ensures 2\u20133 lines at common breakpoints. Bento Density Verification: compare-grid uses grid-auto-flow: dense. GSAP Motion Selection: image-scale-fade-scroll + hover-physics. Label Sweep & Button Check: all CTAs use black pill primary and high-contrast secondary.",
+  "generated_at": "2026-07-06T04:14:50.943447+00:00",
+  "headline": "Super vs ChatGPT \u2014 personal AI agents compared for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with ChatGPT",
+    "competitor": "ChatGPT",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs ChatGPT. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost. Include a long-form buyer guide with a decision matrix, migration checklist, how-to evaluation plan, and source-backed caveats.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "ChatGPT AI agent",
+      "ChatGPT AI assistant",
+      "ChatGPT automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-chatgpt",
+    "title": "Super vs ChatGPT"
+  },
+  "summary": "A fair, source-backed comparison for people choosing between ChatGPT and Super. ChatGPT excels at general conversation and ad\u2011hoc automation. Super is positioned for repeated computer\u2011use workflows, using a reusable computer-use cache so operational work compounds instead of resetting each run."
+}
